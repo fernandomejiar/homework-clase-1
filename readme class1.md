@@ -1,12 +1,15 @@
 # HELLO
 
-### hello 
-
-### hello
-
-### hello
-
-### hello
+### DESCRIPCION DEL PROYECTO
 
 
-#### structure
+### FUNCTIONALITY
+
+### HOW TO USE IT?
+
+### WHERE CAN ANYBODY FIND SUPPORT ABOUT THIS PROYECT
+
+
+#### PROYECT DEVELOPER
+
+### SOCIAL MEDIA

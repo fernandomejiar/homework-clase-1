@@ -1,0 +1,179 @@
+
+body{
+    background-color: rgb(235, 229, 221); 
+    margin: auto;
+    height: auto;
+    will-change: auto;
+    
+
+text-align: center;
+}
+header{
+    font-size: 10px;
+    margin: 100px
+    
+}
+ 
+table{
+    margin-left: auto;
+    margin-right: auto;
+    caption-side: bottom;
+    border:solid black;
+    border-collapse: collapse;
+    margin-top: 200px;
+    margin-bottom: 20px;
+    background-color: aliceblue;
+    
+}
+th,td{
+    border-collapse: collapse;
+    border:solid black 2px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: auto;
+    margin-bottom: 20px;
+    
+}
+th{
+    background-color: black;
+    color: aliceblue;
+    padding-top: 10px;
+   padding-bottom: 10px;
+
+}
+
+td,tr{
+
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+caption{padding: 20px;
+    font-size: 24px;
+    
+}
+
+
+form{
+    background-color: rgb(223, 191, 188);
+    text-align: left;
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    padding:50px;
+    margin-bottom: 50px;
+    border-radius: 6px;
+
+    
+
+
+}
+
+.labelproductos{ padding: 5px;
+    float:left;
+    margin-right: 50px;
+    font-size: 15px;
+    
+    
+    
+
+}
+p{
+    font-size: 20px; text-align: left;
+    margin: 25px;
+    background-color: aqua;
+    width: 60px;
+}
+.registrar{ 
+    margin-left: 0px;
+    padding: 10px;
+    margin: 25px;
+    ;
+    
+
+}
+.inputs{margin-left:75px;
+    
+    border-radius: 4px;
+
+    float: right;
+    
+    
+}
+.guardar{
+    text-decoration: none;
+    padding: 10px;
+    
+    text-align: center;
+    background-color: black;
+    color: beige;
+    width: 75px;
+    height: 20px;
+
+    border-radius: 4px;
+    position: absolute;
+    left: 18%
+    
+
+
+}
+
+.cancelar{
+    text-decoration: none;
+    padding: 10px;
+    
+    text-align: center;
+    background-color: black;
+    color: beige;
+    width: 75px;
+    height: 20px;
+
+    border-radius: 4px;
+    position: absolute;
+    right: 18%;
+    
+} 
+
+.select{
+    padding: 20px;
+    margin: auto; 
+    border-radius: 4px;
+    border: none;
+
+    
+}
+
+.nuevo{
+    display: block;
+    background-color: aliceblue;
+    text-decoration: none;
+    margin: auto;
+    border-radius: 4px;
+    text-align: auto;
+    height: 25px;
+    
+
+}
+.regresar{
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 6px;
+    margin-top: 50px;
+   
+    
+}
+
+footer{
+
+    text-align: left;
+    font-style: italic;
+    font-size:6px;
+    margin:25px;
+    width: 100%;
+    
+}
+
+
+

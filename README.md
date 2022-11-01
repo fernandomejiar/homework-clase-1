@@ -19,6 +19,9 @@ This project ist been designed having as a main focus theme the addition of prod
 
 ### PROYECT DEVELOPER
 
+- FERNANDO MEJIA 
+--ALL RIGHTS RESERVED--
+
 ### SOCIAL MEDIA
 1. [YOUTUBE](https://www.youtube.com)
 2. [FACEBOOK](https://www.facebook.com)

@@ -10,7 +10,7 @@ This project ist been designed having as a main focus theme the addition of prod
 
 ### HOW TO USE IT?
 
-### WHERE CAN ANYBODY FIND SUPPORT ABOUT THIS PROYECT
+### WHERE CAN ANYBODY FIND SUPPORT ABOUT THIS PROjECT
 
 1. [GOOGLE](https://www.google.com/)
 2. [YOUTUBE](https://www.youtube.com)
